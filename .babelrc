@@ -1,0 +1,9 @@
+{
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      "@babel/plugin-transform-runtime"
+    ]
+  }
+  // Con esto le digo a Babel como tieme que trabajar con JS y en que partes del codigo tiuene que poner mas atencion.
